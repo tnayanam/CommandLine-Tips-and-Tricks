@@ -1,0 +1,3 @@
+- Open Current Explorer from CMD directly
+
+start.

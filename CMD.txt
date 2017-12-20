@@ -1,3 +1,7 @@
 - Open Current Explorer from CMD directly
 
 start.
+
+-Information about System and Last Restart
+
+SystemInfo
